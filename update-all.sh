@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# ============================================
+# Mastroalberto - file generato il 24/10/2025
+# contact: alberto.bella@protonmail.com
+# ============================================
+
 # Controllo dei privilegi di root
 if [[ $EUID -ne 0 ]]; then
    echo "Questo script deve essere eseguito come root." >&2

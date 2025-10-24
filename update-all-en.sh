@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# =============================================
+# Mastroalberto - file generated on 10/24/2025
+# contact: alberto.bella@protonmail.com 
+# =============================================
+
 # Checking root privileges
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root." >&2
