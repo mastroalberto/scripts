@@ -1,5 +1,5 @@
 # scripts
-Personal collection of useful linux scripts
+Personal collection of useful linux scripts\
 In this repository are stored my personal scripts used everyday in my Fedora KDE system.
 Every script has two variants based on the output launguage: 
 - English 
