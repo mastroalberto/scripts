@@ -1,0 +1,22 @@
+
+general.import = [
+   "~/.config/alacritty/catppuccin-mocha.toml"
+]
+[window]
+dimensions = { columns = 90, lines = 20 }
+padding = { x = 8, y = 8 }
+dynamic_padding = true
+opacity = 0.7
+blur = true
+
+[font]
+size = 16.0
+
+[keyboard]
+bindings = [
+    # Ctrl + Shift + w apre una nuova finestra di Alacritty
+    { key = "W", mods = "Control|Shift", action = "SpawnNewInstance" },
+    
+    # Ctrl + Shift + q chiude la finestra di Alacritty
+    { key = "Q", mods = "Control|Shift", action = "Quit" }
+]
