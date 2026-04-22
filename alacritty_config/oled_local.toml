@@ -1,0 +1,7 @@
+# uncomment this file only if you are using an OLED panel, this will disable transparency and make background full dark
+# COPY THIS FILE IN ~/.config/alacritty/
+# [window]
+# opacity = 1.0
+
+# [colors.primary]
+# background = "#000000"
